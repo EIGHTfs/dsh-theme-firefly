@@ -18,3 +18,4 @@ Thumbs.db
 
 # 构建产物：node build.cjs 生成，不提交（prepack 自动构建）
 lib/client.js
+node_modules.orig/
